@@ -29,6 +29,7 @@ A simple solution for game TicTacToe
 <br>0, 0, 1<br />
 <br>Player1 will win<br />
 
+
 <br>0, 0, 1<br />
 <br>1, 1, 2<br />
 <br>2, 0, 1<br />
